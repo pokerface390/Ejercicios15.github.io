@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # AngularMaterial
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.5.
@@ -62,3 +63,7 @@ For more information on using the Angular CLI, including detailed command refere
 # Eje15.github.io
 Eje15
 >>>>>>> 59adeac122f3958ad2bf3dd80df72d5908dbafba
+=======
+# Ejercicios15.github.io
+Ejercicios15
+>>>>>>> 2db53f39eb1a2a6f09c459eadca3a8aabc6a7d13
